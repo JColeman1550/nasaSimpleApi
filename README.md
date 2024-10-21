@@ -7,7 +7,7 @@ Fetch Data from NASA API: The app uses the NASA APOD API to fetch the image, tit
 Dynamic Display: The fetched data is dynamically displayed on the web page, showing the title, image, and explanation for the selected date.
 ### Instructions:
 Enter a valid date in the input field and click the "Search" button to view NASA’s picture of the day for that date.
-###Technologies Used:
+### Technologies Used:
 HTML
 JavaScript (fetch API)
 NASA APOD API
